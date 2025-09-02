@@ -1,0 +1,17 @@
+
+.folder{
+  margin-left: 10px;
+  display: flex;
+  cursor: pointer;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  flex-direction: column;
+}
+
+.folder-container{
+  margin-left: 10px;
+}
+
+.file{
+  margin-left: 10px;
+}
